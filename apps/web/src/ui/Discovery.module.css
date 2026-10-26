@@ -1,0 +1,133 @@
+.removable {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  min-height: 34px;
+  padding: 0 var(--space-md);
+  border: var(--border-thin) solid var(--color-border-strong);
+  border-radius: var(--radius-pill);
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+  font-size: var(--type-label-size);
+  font-weight: 600;
+  transition: background-color var(--duration-fast) var(--ease-standard);
+}
+
+.removable:hover {
+  background: var(--color-surface-secondary);
+}
+
+.locationPill {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  min-height: 40px;
+  max-width: 100%;
+  padding: 0 var(--space-md);
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+  font-size: var(--type-label-size);
+  font-weight: 600;
+}
+
+.locationPill span:first-of-type {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.locationPill:hover {
+  background: var(--color-surface-secondary);
+}
+
+.locationPillCompact {
+  min-height: 36px;
+}
+
+.locationBody {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.presets {
+  display: grid;
+  gap: var(--space-xs);
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.presets legend {
+  margin-bottom: var(--space-xs);
+  color: var(--color-text-secondary);
+}
+
+.preset {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  min-height: 56px;
+  padding: var(--space-sm) var(--space-md);
+  border: 0;
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--color-text-primary);
+  text-align: left;
+}
+
+.preset > span {
+  display: grid;
+}
+
+.preset:hover {
+  background: var(--color-surface-secondary);
+}
+
+.preset[aria-checked='true'] {
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+}
+
+.muted {
+  color: var(--color-text-secondary);
+}
+
+.stars {
+  display: grid;
+  gap: var(--space-xs);
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.required {
+  color: var(--color-danger);
+}
+
+.starRow {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xxs);
+}
+
+.star {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  color: var(--color-border-input);
+  cursor: pointer;
+}
+
+.star:hover,
+.starOn {
+  color: var(--color-rating);
+}
+
+.star:has(input:focus-visible) {
+  outline: var(--border-focus) solid var(--color-focus-ring);
+}

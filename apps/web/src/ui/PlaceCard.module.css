@@ -1,0 +1,240 @@
+.card {
+  position: relative;
+  isolation: isolate;
+}
+
+/* Stretched link: the name link covers the whole card. */
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+}
+
+.link:focus-visible {
+  outline: none;
+}
+
+.card:has(.link:focus-visible) {
+  outline: var(--border-focus) solid var(--color-focus-ring);
+  outline-offset: 3px;
+}
+
+.save {
+  position: relative;
+  z-index: 2;
+}
+
+.name {
+  color: var(--color-text-primary);
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-secondary);
+  min-width: 0;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs) var(--space-md);
+}
+
+/* ---------- Featured ---------- */
+
+.featured {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  border-radius: var(--radius-xl);
+  background: var(--color-skeleton);
+  box-shadow: var(--shadow-sm);
+  transition:
+    box-shadow var(--duration-normal) var(--ease-standard),
+    transform var(--duration-normal) var(--ease-standard);
+}
+
+.featured:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.featured:hover .image img {
+  transform: scale(1.04);
+}
+
+.image {
+  z-index: -2;
+}
+
+.scrim {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(180deg, rgb(15 36 27 / 0.35) 0%, rgb(15 36 27 / 0) 30%);
+  pointer-events: none;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-sm);
+  padding: var(--space-md);
+}
+
+.panel {
+  display: grid;
+  gap: var(--space-xs);
+  margin: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-lg);
+  background: color-mix(in srgb, var(--color-surface) 95%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-sm);
+}
+
+.panel .meta {
+  margin-top: var(--space-xs);
+}
+
+/* ---------- Compact ---------- */
+
+.compact {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-sm);
+  padding-right: var(--space-md);
+  border: var(--border-thin) solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  transition:
+    border-color var(--duration-fast) var(--ease-standard),
+    box-shadow var(--duration-fast) var(--ease-standard);
+}
+
+.compact:hover {
+  border-color: var(--color-border-strong);
+  box-shadow: var(--shadow-sm);
+}
+
+.thumb {
+  width: 96px;
+  flex-shrink: 0;
+  border-radius: var(--radius-md);
+}
+
+@media (min-width: 768px) {
+  .thumb {
+    width: 112px;
+  }
+}
+
+.compactBody {
+  display: grid;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+}
+
+.compactBody .name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.compactBody .meta {
+  margin-top: var(--space-xs);
+}
+
+.category {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-secondary);
+}
+
+/* ---------- Layouts ---------- */
+
+.grid {
+  display: grid;
+  gap: var(--space-lg);
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+}
+
+@media (min-width: 768px) {
+  .grid {
+    gap: var(--space-xl);
+  }
+}
+
+.list {
+  display: grid;
+  gap: var(--space-md);
+}
+
+@media (min-width: 1024px) {
+  .list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* ---------- Appearance ---------- */
+
+/* Cards fade up when they mount, so new results (a search, a filter, "Load more") are visibly
+   new. Cards that stay across a filter change keep their element and do not replay. The first
+   few are staggered slightly; later ones appear together so long lists never feel slow. */
+.grid > li,
+.list > li {
+  animation: card-in var(--duration-slow) var(--ease-enter) both;
+}
+
+.grid > li:nth-child(2),
+.list > li:nth-child(2) {
+  animation-delay: 40ms;
+}
+
+.grid > li:nth-child(3),
+.list > li:nth-child(3) {
+  animation-delay: 80ms;
+}
+
+.grid > li:nth-child(4),
+.list > li:nth-child(4) {
+  animation-delay: 120ms;
+}
+
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .grid > li,
+  .list > li {
+    animation: none;
+  }
+}
+
+/* Phones: a squarer editorial card, so a results list shows more than one place per screen. */
+@media (max-width: 520px) {
+  .featured {
+    aspect-ratio: 1 / 1;
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "retrievedOn": "2026-10-25",
+  "rules": "Accepted only when Wikipedia and OpenStreetMap agree: within 3 km for a site, within 10 km for an area.",
+  "places": {
+    "athirappilly-falls": {
+      "latitude": 10.2847,
+      "longitude": 76.5686,
+      "precision": "site",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Athirappilly_Falls"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://nominatim.openstreetmap.org/search?q=Athirappilly+Falls,+Kerala"
+        }
+      ]
+    },
+    "vazhachal-falls": {
+      "latitude": 10.3014,
+      "longitude": 76.5928,
+      "precision": "site",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vazhachal_Falls"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/582568263"
+        }
+      ]
+    },
+    "soochipara-falls": {
+      "latitude": 11.5122,
+      "longitude": 76.1631,
+      "precision": "site",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Soochipara_Falls"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/7428736620"
+        }
+      ]
+    },
+    "marari-beach": {
+      "latitude": 9.6025,
+      "longitude": 76.2999,
+      "precision": "site",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marari_Beach"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/622418623"
+        }
+      ]
+    },
+    "kappad-beach": {
+      "latitude": 11.385,
+      "longitude": 75.7175,
+      "precision": "site",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kappad"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/895460829"
+        }
+      ]
+    },
+    "muzhappilangad-beach": {
+      "latitude": 11.7962,
+      "longitude": 75.442,
+      "precision": "site",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muzhappilangad_Beach"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/251499819"
+        }
+      ]
+    },
+    "cherai-beach": {
+      "latitude": 10.1423,
+      "longitude": 76.1783,
+      "precision": "site",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cherai_Beach"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/25977369"
+        }
+      ]
+    },
+    "bekal-fort-beach": {
+      "latitude": 12.3922,
+      "longitude": 75.0325,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bekal_Fort"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/670422415"
+        }
+      ]
+    },
+    "chembra-peak": {
+      "latitude": 11.5122,
+      "longitude": 76.0894,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chembra_Peak"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/5215512955"
+        }
+      ]
+    },
+    "illikkal-kallu": {
+      "latitude": 9.7452,
+      "longitude": 76.8118,
+      "precision": "site",
+      "agreementKm": 1.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Illickal_Kallu"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/3392759665"
+        }
+      ]
+    },
+    "pookode-lake": {
+      "latitude": 11.5425,
+      "longitude": 76.0272,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pookode_Lake"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/298999606"
+        }
+      ]
+    },
+    "sasthamkotta-lake": {
+      "latitude": 9.0356,
+      "longitude": 76.6369,
+      "precision": "site",
+      "agreementKm": 0.9,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sasthamcotta_Lake"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/30405481"
+        }
+      ]
+    },
+    "st-francis-church": {
+      "latitude": 9.9659,
+      "longitude": 76.2411,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Francis,_Kochi"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/411229869"
+        }
+      ]
+    },
+    "santa-cruz-cathedral-basilica": {
+      "latitude": 9.965,
+      "longitude": 76.243,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Santa_Cruz_Cathedral_Basilica,_Kochi"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/52981122"
+        }
+      ]
+    },
+    "edakkal-caves": {
+      "latitude": 11.6247,
+      "longitude": 76.2358,
+      "precision": "site",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edakkal_caves"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/604968570"
+        }
+      ]
+    },
+    "ettumanoor-mahadeva-temple": {
+      "latitude": 9.6738,
+      "longitude": 76.5612,
+      "precision": "site",
+      "agreementKm": 0,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ettumanoor_Mahadevar_Temple"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://nominatim.openstreetmap.org/search?q=Ettumanoor+Temple,+Kerala"
+        }
+      ]
+    },
+    "jatayu-earths-center": {
+      "latitude": 8.8659,
+      "longitude": 76.8673,
+      "precision": "site",
+      "agreementKm": 0.6,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jatayu_Earth%27s_Center_Nature_Park"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/840524899"
+        }
+      ]
+    },
+    "ponmudi-hills": {
+      "latitude": 8.76,
+      "longitude": 77.117,
+      "precision": "area",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ponmudi"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/1499032014"
+        }
+      ]
+    },
+    "vagamon-meadows": {
+      "latitude": 9.688,
+      "longitude": 76.907,
+      "precision": "area",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vagamon"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/2909519387"
+        }
+      ]
+    },
+    "ramakkalmedu": {
+      "latitude": 9.8,
+      "longitude": 77.237,
+      "precision": "area",
+      "agreementKm": 0.5,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramakkalmedu"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/relation/12905940"
+        }
+      ]
+    },
+    "paithalmala": {
+      "latitude": 12.172,
+      "longitude": 75.567,
+      "precision": "area",
+      "agreementKm": 3,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paithalmala"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/650128654"
+        }
+      ]
+    },
+    "silent-valley-national-park": {
+      "latitude": 11.133,
+      "longitude": 76.467,
+      "precision": "area",
+      "agreementKm": 2.9,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/relation/21130741"
+        }
+      ]
+    },
+    "thenmala": {
+      "latitude": 8.95,
+      "longitude": 77.067,
+      "precision": "area",
+      "agreementKm": 1.7,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thenmala"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/961536612"
+        }
+      ]
+    },
+    "gavi": {
+      "latitude": 9.44,
+      "longitude": 77.16,
+      "precision": "area",
+      "agreementKm": 0.5,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gavi,_Kerala"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/991778697"
+        }
+      ]
+    },
+    "thattekad-bird-sanctuary": {
+      "latitude": 10.13,
+      "longitude": 76.68,
+      "precision": "area",
+      "agreementKm": 4.3,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thattekad_Bird_Sanctuary"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/677289011"
+        }
+      ]
+    },
+    "kumarakom-backwaters": {
+      "latitude": 9.595,
+      "longitude": 76.43,
+      "precision": "area",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kumarakom"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/245584504"
+        }
+      ]
+    },
+    "poovar-estuary": {
+      "latitude": 8.318,
+      "longitude": 77.071,
+      "precision": "area",
+      "agreementKm": 0.2,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Poovar"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/979148747"
+        }
+      ]
+    },
+    "valiyaparamba-backwaters": {
+      "latitude": 12.144,
+      "longitude": 75.144,
+      "precision": "area",
+      "agreementKm": 0.1,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Valiyaparamba"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/634467738"
+        }
+      ]
+    },
+    "thirunelli-temple": {
+      "latitude": 11.912,
+      "longitude": 75.996,
+      "precision": "area",
+      "agreementKm": 0.4,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thirunelli_Temple"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12498728176"
+        }
+      ]
+    },
+    "sree-padmanabhaswamy-temple": {
+      "latitude": 8.483,
+      "longitude": 76.944,
+      "precision": "area",
+      "agreementKm": 0.4,
+      "sources": [
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/1307417295"
+        }
+      ]
+    }
+  },
+  "rejected": {
+    "meenmutty-falls": "Wikipedia and OpenStreetMap disagree by about 44 km.",
+    "palaruvi-falls": "Wikipedia and OpenStreetMap disagree by about 4.3 km.",
+    "kolukkumalai": "Wikipedia and OpenStreetMap disagree by about 17.7 km.",
+    "munroe-island": "Wikipedia gives a rounded value and OpenStreetMap matched only a road.",
+    "varkala-beach": "Only one source (OpenStreetMap) was found.",
+    "attukad-waterfalls": "Only one source (OpenStreetMap) was found.",
+    "thommankuthu-falls": "No matching Wikipedia coordinates; OpenStreetMap matched only an administrative area.",
+    "fort-kochi-chinese-fishing-nets": "Only one source (OpenStreetMap) was found."
+  }
+}

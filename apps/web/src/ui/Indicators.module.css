@@ -1,0 +1,37 @@
+.indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-primary);
+  font-size: var(--type-label-size);
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.sm {
+  font-size: var(--type-caption-size);
+}
+
+.badge {
+  padding: 6px 10px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.star {
+  color: var(--color-rating);
+}
+
+.distanceIcon {
+  color: var(--color-text-secondary);
+}
+
+.value {
+  font-weight: 600;
+}
+
+.meta {
+  color: var(--color-text-secondary);
+  font-weight: 400;
+}

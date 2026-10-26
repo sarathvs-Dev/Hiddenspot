@@ -1,0 +1,264 @@
+.page {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xxxl);
+  padding-top: var(--space-xxl);
+}
+
+.toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-top: calc(var(--space-xl) * -1);
+}
+
+.tocLink {
+  padding: 6px var(--space-md);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-secondary);
+  color: var(--color-text-primary);
+  font-size: var(--type-label-size);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tocLink:hover {
+  background: var(--color-surface-secondary-hover);
+}
+
+.section {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  scroll-margin-top: calc(var(--layout-header-height) + var(--space-lg));
+}
+
+.example {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-md);
+  margin: 0;
+  padding: var(--space-xl);
+  border: var(--border-thin) solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+}
+
+.example figcaption {
+  color: var(--color-text-secondary);
+}
+
+.exampleBody {
+  min-width: 0;
+}
+
+.code {
+  margin: 0;
+  padding: var(--space-md) var(--space-lg);
+  overflow-x: auto;
+  border-radius: var(--radius-md);
+  background: var(--color-surface-inverse);
+  color: var(--palette-ivory200);
+  font-size: var(--type-caption-size);
+  line-height: 1.6;
+}
+
+.muted {
+  color: var(--color-text-secondary);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.stack {
+  display: grid;
+  gap: var(--space-md);
+}
+
+.swatches {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--space-lg);
+}
+
+.swatch {
+  display: grid;
+  gap: 2px;
+}
+
+.swatchColor {
+  height: 64px;
+  margin-bottom: var(--space-sm);
+  border-radius: var(--radius-md);
+  border: var(--border-thin) solid var(--color-border);
+}
+
+.typeScale {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.typeRow {
+  display: grid;
+  gap: var(--space-xs);
+  padding-bottom: var(--space-lg);
+  border-bottom: var(--border-thin) solid var(--color-border);
+}
+
+.typeRow:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.scale {
+  display: grid;
+  gap: var(--space-sm);
+}
+
+.scaleRow {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.scaleLabel {
+  color: var(--color-text-secondary);
+}
+
+.spaceBar {
+  height: 12px;
+  border-radius: var(--radius-xs);
+  background: var(--color-primary);
+}
+
+.motionDot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--color-highlight-strong);
+  animation: slide 1s var(--ease-standard) infinite alternate;
+}
+
+@keyframes slide {
+  to {
+    transform: translateX(160px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .motionDot {
+    animation: none;
+  }
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: var(--space-lg);
+}
+
+.tile {
+  display: grid;
+  place-items: center;
+  height: 88px;
+  border: var(--border-thin) solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-background);
+  color: var(--color-text-secondary);
+}
+
+.iconSample {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-xs);
+  color: var(--color-primary);
+}
+
+.onImage {
+  display: inline-flex;
+  padding: var(--space-md);
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--palette-forest500), var(--palette-forest900));
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: var(--space-lg);
+}
+
+.categoryItem {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-sm);
+  text-align: center;
+}
+
+.categoryIcon {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-lg);
+  background: var(--color-primary-subtle);
+  color: var(--color-primary);
+}
+
+.cardDemo {
+  display: grid;
+  gap: var(--space-xl);
+}
+
+@media (min-width: 1024px) {
+  .cardDemo {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    align-items: start;
+  }
+}
+
+.featuredSample {
+  max-width: 340px;
+}
+
+.statusList {
+  display: grid;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-lg);
+}
+
+.statusItem {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-lg);
+  padding: var(--space-md) 0;
+  border-bottom: var(--border-thin) solid var(--color-border);
+}
+
+.form {
+  display: grid;
+  gap: var(--space-lg);
+  max-width: 520px;
+}
+
+.principles {
+  display: grid;
+  gap: var(--space-lg);
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+}
+
+.principle {
+  display: grid;
+  gap: var(--space-xs);
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface-secondary);
+}

@@ -1,0 +1,29 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  outline: none;
+}
+
+/* Route change: a short fade so the new page reads as a change of place. Transform and
+   opacity only, so nothing shifts layout. */
+.page {
+  animation: page-in var(--duration-slow) var(--ease-enter);
+}
+
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page {
+    animation: none;
+  }
+}

@@ -1,0 +1,124 @@
+.page {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  padding-top: var(--space-xxl);
+}
+
+.searchRow {
+  display: flex;
+  gap: var(--space-sm);
+  max-width: 720px;
+}
+
+.search {
+  flex: 1;
+  /* Flex items default to their content width; allow the field to shrink on phones. */
+  min-width: 0;
+}
+
+.filtersButton {
+  flex-shrink: 0;
+}
+
+.layout {
+  display: grid;
+  gap: var(--space-xl);
+  align-items: start;
+}
+
+.sidebar {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .layout {
+    grid-template-columns: 280px minmax(0, 1fr);
+    gap: var(--space-xxl);
+  }
+
+  .sidebar {
+    position: sticky;
+    top: calc(var(--layout-header-height) + var(--space-xl));
+    display: grid;
+    gap: var(--space-lg);
+    padding: var(--space-xl);
+    border: var(--border-thin) solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+  }
+
+  .filtersButton {
+    display: none;
+  }
+}
+
+.sidebarHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.panel {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.fieldset {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.fieldset legend {
+  margin-bottom: var(--space-xs);
+}
+
+.results {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-lg);
+}
+
+.resultsHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  color: var(--color-text-secondary);
+}
+
+.viewToggle {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+.locationRow {
+  display: flex;
+  margin-top: calc(var(--space-md) * -1);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.districts {
+  display: grid;
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: var(--space-xs);
+}
+
+.more {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-md);
+  padding-top: var(--space-lg);
+  color: var(--color-text-secondary);
+}

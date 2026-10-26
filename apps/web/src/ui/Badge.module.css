@@ -1,0 +1,88 @@
+.badge {
+  --bg: var(--tone-neutral-bg);
+  --fg: var(--tone-neutral-fg);
+  --bd: var(--tone-neutral-border);
+  --accent: var(--tone-neutral-accent);
+
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  padding: var(--space-xs) var(--space-md);
+  border: var(--border-thin) solid transparent;
+  border-radius: var(--radius-pill);
+  background: var(--bg);
+  color: var(--fg);
+  font-size: var(--type-caption-size);
+  font-weight: 600;
+  line-height: var(--type-caption-line-height);
+  white-space: nowrap;
+}
+
+.sm {
+  padding: 2px var(--space-sm);
+  font-size: 11px;
+}
+
+.outline {
+  background: transparent;
+  border-color: var(--bd);
+}
+
+.glass {
+  background: var(--color-glass);
+  border-color: var(--color-glass-border);
+  color: var(--color-text-on-image);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.neutral {
+  --bg: var(--tone-neutral-bg);
+  --fg: var(--tone-neutral-fg);
+  --bd: var(--tone-neutral-border);
+  --accent: var(--tone-neutral-accent);
+}
+.brand {
+  --bg: var(--tone-brand-bg);
+  --fg: var(--tone-brand-fg);
+  --bd: var(--tone-brand-border);
+  --accent: var(--tone-brand-accent);
+}
+.success {
+  --bg: var(--tone-success-bg);
+  --fg: var(--tone-success-fg);
+  --bd: var(--tone-success-border);
+  --accent: var(--tone-success-accent);
+}
+.warning {
+  --bg: var(--tone-warning-bg);
+  --fg: var(--tone-warning-fg);
+  --bd: var(--tone-warning-border);
+  --accent: var(--tone-warning-accent);
+}
+.danger {
+  --bg: var(--tone-danger-bg);
+  --fg: var(--tone-danger-fg);
+  --bd: var(--tone-danger-border);
+  --accent: var(--tone-danger-accent);
+}
+.info {
+  --bg: var(--tone-info-bg);
+  --fg: var(--tone-info-fg);
+  --bd: var(--tone-info-border);
+  --accent: var(--tone-info-accent);
+}
+.highlight {
+  --bg: var(--tone-highlight-bg);
+  --fg: var(--tone-highlight-fg);
+  --bd: var(--tone-highlight-border);
+  --accent: var(--tone-highlight-accent);
+}

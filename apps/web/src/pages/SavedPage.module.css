@@ -1,0 +1,13 @@
+.page {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  padding-top: var(--space-xxl);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}

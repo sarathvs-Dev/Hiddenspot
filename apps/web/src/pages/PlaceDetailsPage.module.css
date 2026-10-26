@@ -1,0 +1,246 @@
+.page {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  padding-top: var(--space-lg);
+  /* Room for the fixed action bar on phones and tablets. */
+  padding-bottom: 120px;
+}
+
+@media (min-width: 1024px) {
+  .page {
+    padding-bottom: 0;
+  }
+}
+
+.heroSkeleton {
+  width: 100%;
+  border-radius: var(--radius-xxl);
+}
+
+.hero {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: min(64vh, 560px);
+  padding: var(--space-lg);
+  border-radius: var(--radius-xxl);
+  overflow: hidden;
+  color: var(--color-text-on-image);
+}
+
+@media (max-width: 767px) {
+  .hero {
+    margin-inline: calc(var(--gutter) * -1);
+    margin-top: calc(var(--space-lg) * -1);
+    border-radius: 0 0 var(--radius-xxl) var(--radius-xxl);
+  }
+}
+
+@media (min-width: 768px) {
+  .hero {
+    padding: var(--space-xl);
+  }
+}
+
+.hero > :first-child {
+  z-index: -2;
+}
+
+.heroScrim {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(
+    180deg,
+    rgb(15 36 27 / 0.35) 0%,
+    rgb(15 36 27 / 0) 30%,
+    rgb(15 36 27 / 0.15) 55%,
+    rgb(15 36 27 / 0.78) 100%
+  );
+}
+
+.heroTop {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heroBottom {
+  display: grid;
+  gap: var(--space-sm);
+}
+
+.heroLocation {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  opacity: 0.92;
+}
+
+.layout {
+  display: grid;
+  gap: var(--space-xxl);
+}
+
+@media (min-width: 1024px) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr) 340px;
+    align-items: start;
+  }
+}
+
+.main {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  min-width: 0;
+}
+
+.tagline {
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md) var(--space-xl);
+  padding: var(--space-lg) var(--space-xl);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface-secondary);
+}
+
+.stat {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: var(--type-label-size);
+  font-weight: 600;
+}
+
+.stat svg {
+  color: var(--color-text-secondary);
+}
+
+.section {
+  display: grid;
+  /* Lets wide children such as scrolling chip rows shrink instead of widening the page. */
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-lg);
+}
+
+.description {
+  max-width: var(--layout-reading-max);
+  color: var(--color-text-secondary);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.reviews {
+  display: grid;
+  gap: var(--space-md);
+}
+
+.aside {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: var(--z-nav);
+}
+
+@media (min-width: 1024px) {
+  .aside {
+    position: sticky;
+    top: calc(var(--layout-header-height) + var(--space-xl));
+  }
+}
+
+.planCard {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  padding: var(--space-lg) var(--gutter) calc(var(--space-lg) + env(safe-area-inset-bottom));
+  border-top: var(--border-thin) solid var(--color-border);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-lg);
+}
+
+.planCard > a {
+  flex: 1;
+}
+
+@media (min-width: 1024px) {
+  .planCard {
+    display: grid;
+    gap: var(--space-xl);
+    padding: var(--space-xl);
+    border: var(--border-thin) solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+  }
+}
+
+.facts {
+  display: grid;
+  gap: var(--space-lg);
+}
+
+.fact {
+  display: grid;
+  gap: 2px;
+}
+
+.fact dt {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-secondary);
+}
+
+/* On phones the action bar only shows the price next to the button. */
+@media (max-width: 1023px) {
+  .fact:first-child {
+    display: none;
+  }
+}
+
+.price {
+  color: var(--color-text-primary);
+}
+
+.notes {
+  display: grid;
+  gap: var(--space-sm);
+  padding-left: var(--space-xl);
+  list-style: disc;
+  color: var(--color-text-secondary);
+}
+
+.notice {
+  display: flex;
+  gap: var(--space-sm);
+  align-items: flex-start;
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  background: var(--color-highlight);
+  color: var(--color-on-highlight);
+}
+
+.factHint {
+  color: var(--color-text-tertiary);
+}
+
+.sourceLinks {
+  display: flex;
+  gap: var(--space-sm);
+  margin-top: var(--space-xxs);
+}

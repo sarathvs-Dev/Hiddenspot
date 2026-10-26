@@ -1,0 +1,134 @@
+[
+  {
+    "id": "sub-0001",
+    "submittedBy": "usr-arjun",
+    "status": "approved",
+    "place": {
+      "name": "Sunset Ridge Viewpoint (demo)",
+      "shortDescription": "A fictional viewpoint created from an approved demo submission.",
+      "description": null,
+      "categoryIds": ["hill-viewpoints"],
+      "district": "Wayanad",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": null,
+    "approvedPlaceId": "pl-demo-sunset-ridge",
+    "createdAt": "2026-08-02T09:00:00.000Z",
+    "updatedAt": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "id": "sub-0002",
+    "submittedBy": "usr-fathima",
+    "status": "in_review",
+    "place": {
+      "name": "Coconut Grove Lookout (demo)",
+      "shortDescription": "A fictional lookout between coconut groves, submitted for review.",
+      "description": null,
+      "categoryIds": ["peaceful", "photoshoot"],
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": null,
+    "approvedPlaceId": null,
+    "createdAt": "2026-10-12T09:00:00.000Z",
+    "updatedAt": "2026-10-14T09:00:00.000Z"
+  },
+  {
+    "id": "sub-0003",
+    "submittedBy": "usr-joseph",
+    "status": "changes_requested",
+    "place": {
+      "name": "Misty Pine Trail (demo)",
+      "shortDescription": "A fictional pine trail. The reviewer asked for more detail.",
+      "description": null,
+      "categoryIds": ["forests-lakes"],
+      "district": "Idukki",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": "Please add a clear photo and describe where visitors can park safely.",
+    "approvedPlaceId": null,
+    "createdAt": "2026-09-20T09:00:00.000Z",
+    "updatedAt": "2026-09-25T09:00:00.000Z"
+  },
+  {
+    "id": "sub-0004",
+    "submittedBy": "usr-meera",
+    "status": "submitted",
+    "place": {
+      "name": "Lotus Pond Shrine (demo)",
+      "shortDescription": "A fictional small shrine beside a lotus pond.",
+      "description": null,
+      "categoryIds": ["temples-churches", "peaceful"],
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": null,
+    "approvedPlaceId": null,
+    "createdAt": "2026-10-21T09:00:00.000Z",
+    "updatedAt": "2026-10-21T09:00:00.000Z"
+  },
+  {
+    "id": "sub-0005",
+    "submittedBy": "usr-anu",
+    "status": "draft",
+    "place": {
+      "name": "Backwater Bend (demo)",
+      "shortDescription": "A fictional quiet bend in the backwaters, still a draft.",
+      "description": null,
+      "categoryIds": ["peaceful"],
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": null,
+    "approvedPlaceId": null,
+    "createdAt": "2026-10-23T09:00:00.000Z",
+    "updatedAt": "2026-10-23T09:00:00.000Z"
+  },
+  {
+    "id": "sub-0006",
+    "submittedBy": "usr-rahul",
+    "status": "rejected",
+    "place": {
+      "name": "Private Estate Falls (demo)",
+      "shortDescription": "A fictional waterfall on private land.",
+      "description": null,
+      "categoryIds": ["waterfalls"],
+      "district": "Thrissur",
+      "state": "Kerala",
+      "country": "India",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "imageUrls": []
+    },
+    "reviewerNote": "This location is on private property and is not open to the public.",
+    "approvedPlaceId": null,
+    "createdAt": "2026-07-05T09:00:00.000Z",
+    "updatedAt": "2026-07-09T09:00:00.000Z"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "waterfalls",
+    "name": "Waterfalls",
+    "icon": "droplets",
+    "description": "Cascades and plunge pools, at their fullest after the rains.",
+    "slug": "waterfalls",
+    "sortOrder": 1
+  },
+  {
+    "id": "beaches",
+    "name": "Beaches",
+    "icon": "umbrella",
+    "description": "Quiet shorelines, cliffs and estuaries along the coast.",
+    "slug": "beaches",
+    "sortOrder": 2
+  },
+  {
+    "id": "hill-viewpoints",
+    "name": "Hill Viewpoints",
+    "icon": "mountain",
+    "description": "Ridges, peaks and lookouts above the clouds.",
+    "slug": "hill-viewpoints",
+    "sortOrder": 3
+  },
+  {
+    "id": "forests-lakes",
+    "name": "Forests and Lakes",
+    "icon": "trees",
+    "description": "Protected forests, still lakes and backwater edges.",
+    "slug": "forests-lakes",
+    "sortOrder": 4
+  },
+  {
+    "id": "temples-churches",
+    "name": "Temples and Churches",
+    "icon": "landmark",
+    "description": "Historic places of worship. Visit respectfully.",
+    "slug": "temples-churches",
+    "sortOrder": 5
+  },
+  {
+    "id": "peaceful",
+    "name": "Peaceful Places",
+    "icon": "leaf",
+    "description": "Slow, quiet spots to rest and recharge.",
+    "slug": "peaceful",
+    "sortOrder": 6
+  },
+  {
+    "id": "photoshoot",
+    "name": "Photoshoot Spots",
+    "icon": "camera",
+    "description": "Locations with strong light, views or texture.",
+    "slug": "photoshoot",
+    "sortOrder": 7
+  },
+  {
+    "id": "hidden-gems",
+    "name": "Other Hidden Gems",
+    "icon": "compass",
+    "description": "Lesser-known places that do not fit one box.",
+    "slug": "hidden-gems",
+    "sortOrder": 8
+  }
+]

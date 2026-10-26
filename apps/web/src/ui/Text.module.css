@@ -1,0 +1,37 @@
+.tone-primary {
+  color: var(--color-text-primary);
+}
+.tone-secondary {
+  color: var(--color-text-secondary);
+}
+.tone-tertiary {
+  color: var(--color-text-tertiary);
+}
+.tone-inverse {
+  color: var(--color-text-inverse);
+}
+.tone-brand {
+  color: var(--color-primary);
+}
+.tone-danger {
+  color: var(--color-danger);
+}
+.tone-inherit {
+  color: inherit;
+}
+
+.align-start {
+  text-align: start;
+}
+.align-center {
+  text-align: center;
+}
+.align-end {
+  text-align: end;
+}
+
+.clamp {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

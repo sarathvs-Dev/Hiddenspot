@@ -1,0 +1,116 @@
+[
+  {
+    "id": "kochi",
+    "label": "Kochi",
+    "district": "Ernakulam",
+    "latitude": 9.931,
+    "longitude": 76.267,
+    "agreementKm": 4.8,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kochi"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/3862624198"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  },
+  {
+    "id": "thiruvananthapuram",
+    "label": "Thiruvananthapuram",
+    "district": "Thiruvananthapuram",
+    "latitude": 8.524,
+    "longitude": 76.937,
+    "agreementKm": 4.2,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thiruvananthapuram"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/245581432"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  },
+  {
+    "id": "kozhikode",
+    "label": "Kozhikode",
+    "district": "Kozhikode",
+    "latitude": 11.249,
+    "longitude": 75.784,
+    "agreementKm": 1,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kozhikode"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/1348192542"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  },
+  {
+    "id": "thrissur",
+    "label": "Thrissur",
+    "district": "Thrissur",
+    "latitude": 10.528,
+    "longitude": 76.214,
+    "agreementKm": 1.4,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thrissur"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/5243679373"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  },
+  {
+    "id": "kalpetta",
+    "label": "Kalpetta",
+    "district": "Wayanad",
+    "latitude": 11.623,
+    "longitude": 76.081,
+    "agreementKm": 1.4,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kalpetta"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/245596484"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  },
+  {
+    "id": "munnar",
+    "label": "Munnar",
+    "district": "Idukki",
+    "latitude": 10.089,
+    "longitude": 77.06,
+    "agreementKm": 0.2,
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Munnar"
+      },
+      {
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/3870703092"
+      }
+    ],
+    "retrievedOn": "2026-10-25"
+  }
+]

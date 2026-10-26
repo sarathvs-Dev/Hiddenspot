@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "pl-athirappilly-falls",
+    "slug": "athirappilly-falls",
+    "name": "Athirappilly Falls",
+    "shortDescription": "One of the best-known waterfalls in Kerala, on the Chalakudy River.",
+    "description": "A wide waterfall framed by forest on the Chalakudy River. It is one of the most visited waterfalls in the state, so weekday mornings are calmer.",
+    "categoryIds": ["waterfalls", "photoshoot"],
+    "tags": ["river", "forest", "monsoon"],
+    "address": null,
+    "district": "Thrissur",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 10.2847,
+    "longitude": 76.5686,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-athirappilly-falls-1/1200/900",
+      "https://picsum.photos/seed/hs-athirappilly-falls-2/1200/900",
+      "https://picsum.photos/seed/hs-athirappilly-falls-3/1200/900"
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 3,
+    "popularityCount": 980,
+    "createdAt": "2026-01-01T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Athirappilly_Falls",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://nominatim.openstreetmap.org/search?q=Athirappilly+Falls,+Kerala",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-vazhachal-falls",
+    "slug": "vazhachal-falls",
+    "name": "Vazhachal Falls",
+    "shortDescription": "A gentler cascade on the Chalakudy River, surrounded by forest.",
+    "description": "A broad, stepped cascade in a forested stretch of the Chalakudy River, often visited together with Athirappilly.",
+    "categoryIds": ["waterfalls", "forests-lakes"],
+    "tags": ["river", "forest"],
+    "address": null,
+    "district": "Thrissur",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 10.3014,
+    "longitude": 76.5928,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-vazhachal-falls-1/1200/900",
+      "https://picsum.photos/seed/hs-vazhachal-falls-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 2,
+    "popularityCount": 410,
+    "createdAt": "2026-02-02T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Stay on marked trails and follow forest department rules."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vazhachal_Falls",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/582568263",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-meenmutty-falls",
+    "slug": "meenmutty-falls",
+    "name": "Meenmutty Falls",
+    "shortDescription": "A tiered waterfall in Wayanad reached by a forest walk.",
+    "description": null,
+    "categoryIds": ["waterfalls", "hidden-gems"],
+    "tags": ["trek", "forest"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-meenmutty-falls-1/1200/900",
+      "https://picsum.photos/seed/hs-meenmutty-falls-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 1,
+    "popularityCount": 260,
+    "createdAt": "2026-03-03T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-soochipara-falls",
+    "slug": "soochipara-falls",
+    "name": "Soochipara Falls",
+    "shortDescription": "A tall waterfall in Wayanad set in tea and forest country.",
+    "description": "Also known as Sentinel Rock Waterfalls. The approach passes through tea estates and forest.",
+    "categoryIds": ["waterfalls"],
+    "tags": ["tea", "forest"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.5122,
+    "longitude": 76.1631,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-soochipara-falls-1/1200/900",
+      "https://picsum.photos/seed/hs-soochipara-falls-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 300,
+    "createdAt": "2026-04-04T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soochipara_Falls",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/7428736620",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-thommankuthu-falls",
+    "slug": "thommankuthu-falls",
+    "name": "Thommankuthu Falls",
+    "shortDescription": "A series of small falls and pools along a forest trail.",
+    "description": null,
+    "categoryIds": ["waterfalls", "forests-lakes"],
+    "tags": ["trail", "pools"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-thommankuthu-falls-1/1200/900",
+      "https://picsum.photos/seed/hs-thommankuthu-falls-2/1200/900"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2,
+    "popularityCount": 150,
+    "createdAt": "2026-05-05T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Stay on marked trails and follow forest department rules."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-palaruvi-falls",
+    "slug": "palaruvi-falls",
+    "name": "Palaruvi Falls",
+    "shortDescription": "A waterfall whose name is often translated as \"stream of milk\".",
+    "description": "A tall, narrow waterfall in the forests of eastern Kollam, near the Tamil Nadu border.",
+    "categoryIds": ["waterfalls"],
+    "tags": ["forest", "monsoon"],
+    "address": null,
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": ["https://picsum.photos/seed/hs-palaruvi-falls-1/1200/900"],
+    "averageRating": 4.3,
+    "reviewCount": 3,
+    "popularityCount": 220,
+    "createdAt": "2026-06-06T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-attukad-waterfalls",
+    "slug": "attukad-waterfalls",
+    "name": "Attukad Waterfalls",
+    "shortDescription": "A quieter waterfall in the hills near Munnar.",
+    "description": null,
+    "categoryIds": ["waterfalls", "peaceful"],
+    "tags": ["munnar", "hills"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-attukad-waterfalls-1/1200/900",
+      "https://picsum.photos/seed/hs-attukad-waterfalls-2/1200/900"
+    ],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 120,
+    "createdAt": "2026-07-07T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-varkala-beach",
+    "slug": "varkala-beach",
+    "name": "Varkala Beach",
+    "shortDescription": "A beach below dramatic red laterite cliffs.",
+    "description": "Known for the cliffs that rise straight above the sand, with a walkway along the top. Sunset views from the cliff are popular.",
+    "categoryIds": ["beaches", "photoshoot"],
+    "tags": ["cliffs", "sunset"],
+    "address": null,
+    "district": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-varkala-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-varkala-beach-2/1200/900",
+      "https://picsum.photos/seed/hs-varkala-beach-3/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 2,
+    "popularityCount": 870,
+    "createdAt": "2026-08-08T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-marari-beach",
+    "slug": "marari-beach",
+    "name": "Marari Beach",
+    "shortDescription": "A calm, palm-lined beach near a fishing village.",
+    "description": "A relaxed stretch of coast north of Alappuzha town, quieter than the larger resort beaches.",
+    "categoryIds": ["beaches", "peaceful"],
+    "tags": ["palms", "village"],
+    "address": null,
+    "district": "Alappuzha",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.6025,
+    "longitude": 76.2999,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-marari-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-marari-beach-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 340,
+    "createdAt": "2026-09-09T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marari_Beach",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/622418623",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-kappad-beach",
+    "slug": "kappad-beach",
+    "name": "Kappad Beach",
+    "shortDescription": "A rocky-edged beach associated with the arrival of Vasco da Gama in 1498.",
+    "description": null,
+    "categoryIds": ["beaches"],
+    "tags": ["history", "rocks"],
+    "address": null,
+    "district": "Kozhikode",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.385,
+    "longitude": 75.7175,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-kappad-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-kappad-beach-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 1,
+    "popularityCount": 190,
+    "createdAt": "2026-01-10T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kappad",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/895460829",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-muzhappilangad-beach",
+    "slug": "muzhappilangad-beach",
+    "name": "Muzhappilangad Drive-in Beach",
+    "shortDescription": "A long, firm-sand beach known for allowing driving along the shore.",
+    "description": "A long beach with firm sand. Driving rules and access can change, so follow the signs on site.",
+    "categoryIds": ["beaches", "photoshoot"],
+    "tags": ["drive-in", "long beach"],
+    "address": null,
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.7962,
+    "longitude": 75.442,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-muzhappilangad-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-muzhappilangad-beach-2/1200/900"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2,
+    "popularityCount": 280,
+    "createdAt": "2026-02-11T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Muzhappilangad_Beach",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/251499819",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-cherai-beach",
+    "slug": "cherai-beach",
+    "name": "Cherai Beach",
+    "shortDescription": "A beach on Vypin island with backwaters close by.",
+    "description": null,
+    "categoryIds": ["beaches", "peaceful"],
+    "tags": ["backwaters", "island"],
+    "address": null,
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 10.1423,
+    "longitude": 76.1783,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-cherai-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-cherai-beach-2/1200/900"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 3,
+    "popularityCount": 330,
+    "createdAt": "2026-03-12T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cherai_Beach",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/25977369",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-bekal-fort-beach",
+    "slug": "bekal-fort-beach",
+    "name": "Bekal Fort and Beach",
+    "shortDescription": "A large seaside fort beside a sandy beach in northern Kerala.",
+    "description": "A historic keyhole-shaped fort overlooking the sea, with a beach park next to it.",
+    "categoryIds": ["beaches", "photoshoot"],
+    "tags": ["fort", "history", "sea"],
+    "address": null,
+    "district": "Kasaragod",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 12.3922,
+    "longitude": 75.0325,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-bekal-fort-beach-1/1200/900",
+      "https://picsum.photos/seed/hs-bekal-fort-beach-2/1200/900",
+      "https://picsum.photos/seed/hs-bekal-fort-beach-3/1200/900"
+    ],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 450,
+    "createdAt": "2026-04-13T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bekal_Fort",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/670422415",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-ponmudi-hills",
+    "slug": "ponmudi-hills",
+    "name": "Ponmudi Hills",
+    "shortDescription": "A hill station reached by a road of many hairpin bends.",
+    "description": "Rolling hills and tea slopes within reach of the capital. Mist is common, and views depend on the weather.",
+    "categoryIds": ["hill-viewpoints"],
+    "tags": ["hairpin road", "mist"],
+    "address": null,
+    "district": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 8.76,
+    "longitude": 77.117,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-ponmudi-hills-1/1200/900",
+      "https://picsum.photos/seed/hs-ponmudi-hills-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 390,
+    "createdAt": "2026-05-14T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ponmudi",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/1499032014",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-vagamon-meadows",
+    "slug": "vagamon-meadows",
+    "name": "Vagamon Meadows",
+    "shortDescription": "Open grassy hills, pine plantations and wide views.",
+    "description": "Rolling meadows and a pine plantation make Vagamon a favourite for walks and photography.",
+    "categoryIds": ["hill-viewpoints", "photoshoot"],
+    "tags": ["meadows", "pine"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.688,
+    "longitude": 76.907,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-vagamon-meadows-1/1200/900",
+      "https://picsum.photos/seed/hs-vagamon-meadows-2/1200/900",
+      "https://picsum.photos/seed/hs-vagamon-meadows-3/1200/900"
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 3,
+    "popularityCount": 760,
+    "createdAt": "2026-06-15T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vagamon",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/2909519387",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-kolukkumalai",
+    "slug": "kolukkumalai",
+    "name": "Kolukkumalai",
+    "shortDescription": "High tea estate country above Munnar, popular for sunrise.",
+    "description": null,
+    "categoryIds": ["hill-viewpoints", "photoshoot"],
+    "tags": ["sunrise", "tea"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-kolukkumalai-1/1200/900",
+      "https://picsum.photos/seed/hs-kolukkumalai-2/1200/900"
+    ],
+    "averageRating": 3,
+    "reviewCount": 2,
+    "popularityCount": 520,
+    "createdAt": "2026-07-16T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-ramakkalmedu",
+    "slug": "ramakkalmedu",
+    "name": "Ramakkalmedu",
+    "shortDescription": "A windy hilltop viewpoint looking out towards Tamil Nadu.",
+    "description": null,
+    "categoryIds": ["hill-viewpoints"],
+    "tags": ["wind", "viewpoint"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.8,
+    "longitude": 77.237,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-ramakkalmedu-1/1200/900",
+      "https://picsum.photos/seed/hs-ramakkalmedu-2/1200/900"
+    ],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 210,
+    "createdAt": "2026-08-17T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ramakkalmedu",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/relation/12905940",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-paithalmala",
+    "slug": "paithalmala",
+    "name": "Paithalmala",
+    "shortDescription": "A forested hill in Kannur reached on foot.",
+    "description": "A trek through forest leads to open grassland on top, with views over the Western Ghats.",
+    "categoryIds": ["hill-viewpoints", "hidden-gems"],
+    "tags": ["trek", "grassland"],
+    "address": null,
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 12.172,
+    "longitude": 75.567,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-paithalmala-1/1200/900",
+      "https://picsum.photos/seed/hs-paithalmala-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 170,
+    "createdAt": "2026-09-18T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paithalmala",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/650128654",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-chembra-peak",
+    "slug": "chembra-peak",
+    "name": "Chembra Peak",
+    "shortDescription": "A peak in Wayanad known for a heart-shaped lake on the way up.",
+    "description": "Trekking access is regulated by the forest department and can close at times. Check before planning.",
+    "categoryIds": ["hill-viewpoints", "forests-lakes"],
+    "tags": ["trek", "lake"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.5122,
+    "longitude": 76.0894,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-chembra-peak-1/1200/900",
+      "https://picsum.photos/seed/hs-chembra-peak-2/1200/900"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2,
+    "popularityCount": 480,
+    "createdAt": "2026-01-19T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection.",
+      "Stay on marked trails and follow forest department rules."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chembra_Peak",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/5215512955",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-illikkal-kallu",
+    "slug": "illikkal-kallu",
+    "name": "Illikkal Kallu",
+    "shortDescription": "A rocky hilltop with sweeping views in eastern Kottayam.",
+    "description": null,
+    "categoryIds": ["hill-viewpoints", "hidden-gems"],
+    "tags": ["rock", "viewpoint"],
+    "address": null,
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.7452,
+    "longitude": 76.8118,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-illikkal-kallu-1/1200/900",
+      "https://picsum.photos/seed/hs-illikkal-kallu-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 3,
+    "popularityCount": 140,
+    "createdAt": "2026-02-20T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Illickal_Kallu",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/3392759665",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-pookode-lake",
+    "slug": "pookode-lake",
+    "name": "Pookode Lake",
+    "shortDescription": "A small natural lake surrounded by forest.",
+    "description": null,
+    "categoryIds": ["forests-lakes", "peaceful"],
+    "tags": ["lake", "boating"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.5425,
+    "longitude": 76.0272,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-pookode-lake-1/1200/900",
+      "https://picsum.photos/seed/hs-pookode-lake-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 1,
+    "popularityCount": 310,
+    "createdAt": "2026-03-21T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pookode_Lake",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/298999606",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-silent-valley-national-park",
+    "slug": "silent-valley-national-park",
+    "name": "Silent Valley National Park",
+    "shortDescription": "A protected rainforest with controlled visitor access.",
+    "description": "One of the best-known protected forests in the Western Ghats. Entry is managed by the forest department.",
+    "categoryIds": ["forests-lakes"],
+    "tags": ["rainforest", "protected area"],
+    "address": null,
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.133,
+    "longitude": 76.467,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-silent-valley-national-park-1/1200/900",
+      "https://picsum.photos/seed/hs-silent-valley-national-park-2/1200/900"
+    ],
+    "averageRating": 3,
+    "reviewCount": 2,
+    "popularityCount": 260,
+    "createdAt": "2026-04-22T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/relation/21130741",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-thenmala",
+    "slug": "thenmala",
+    "name": "Thenmala",
+    "shortDescription": "A forested area in eastern Kollam with eco-tourism trails.",
+    "description": null,
+    "categoryIds": ["forests-lakes"],
+    "tags": ["eco-tourism", "forest"],
+    "address": null,
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 8.95,
+    "longitude": 77.067,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-thenmala-1/1200/900",
+      "https://picsum.photos/seed/hs-thenmala-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 180,
+    "createdAt": "2026-05-23T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thenmala",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/961536612",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-sasthamkotta-lake",
+    "slug": "sasthamkotta-lake",
+    "name": "Sasthamkotta Lake",
+    "shortDescription": "A large freshwater lake in Kollam.",
+    "description": "Often described as the largest freshwater lake in Kerala. A calm place for an unhurried walk.",
+    "categoryIds": ["forests-lakes", "peaceful"],
+    "tags": ["freshwater", "lake"],
+    "address": null,
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.0356,
+    "longitude": 76.6369,
+    "locationPrecision": "site",
+    "imageUrls": ["https://picsum.photos/seed/hs-sasthamkotta-lake-1/1200/900"],
+    "averageRating": 3,
+    "reviewCount": 1,
+    "popularityCount": 130,
+    "createdAt": "2026-06-24T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sasthamcotta_Lake",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/30405481",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-gavi",
+    "slug": "gavi",
+    "name": "Gavi",
+    "shortDescription": "Forest and reservoir country with regulated entry.",
+    "description": "A remote forest area with reservoirs. Entry is regulated and may require advance permission.",
+    "categoryIds": ["forests-lakes", "hidden-gems"],
+    "tags": ["forest", "reservoir"],
+    "address": null,
+    "district": "Pathanamthitta",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.44,
+    "longitude": 77.16,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-gavi-1/1200/900",
+      "https://picsum.photos/seed/hs-gavi-2/1200/900"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2,
+    "popularityCount": 240,
+    "createdAt": "2026-07-25T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gavi,_Kerala",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/991778697",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-thattekad-bird-sanctuary",
+    "slug": "thattekad-bird-sanctuary",
+    "name": "Thattekad Bird Sanctuary",
+    "shortDescription": "A sanctuary known among birdwatchers.",
+    "description": null,
+    "categoryIds": ["forests-lakes"],
+    "tags": ["birds", "sanctuary"],
+    "address": null,
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 10.13,
+    "longitude": 76.68,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-thattekad-bird-sanctuary-1/1200/900",
+      "https://picsum.photos/seed/hs-thattekad-bird-sanctuary-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 3,
+    "popularityCount": 200,
+    "createdAt": "2026-08-26T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Cooler months are generally more comfortable. Some protected areas restrict entry seasonally.",
+    "safetyNotes": [
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thattekad_Bird_Sanctuary",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/677289011",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-thirunelli-temple",
+    "slug": "thirunelli-temple",
+    "name": "Thirunelli Temple",
+    "shortDescription": "An ancient temple in a forested valley in Wayanad.",
+    "description": "An ancient temple surrounded by hills and forest. Visitors should follow temple customs.",
+    "categoryIds": ["temples-churches", "peaceful"],
+    "tags": ["temple", "valley"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.912,
+    "longitude": 75.996,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-thirunelli-temple-1/1200/900",
+      "https://picsum.photos/seed/hs-thirunelli-temple-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 1,
+    "popularityCount": 290,
+    "createdAt": "2026-09-27T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": [
+      "Follow dress codes and photography rules posted at the entrance.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thirunelli_Temple",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/12498728176",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-sree-padmanabhaswamy-temple",
+    "slug": "sree-padmanabhaswamy-temple",
+    "name": "Sree Padmanabhaswamy Temple",
+    "shortDescription": "A major temple in the heart of Thiruvananthapuram.",
+    "description": "A famous temple with a strict dress code for visitors. Check the current entry rules before you go.",
+    "categoryIds": ["temples-churches"],
+    "tags": ["temple", "heritage"],
+    "address": null,
+    "district": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 8.483,
+    "longitude": 76.944,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-sree-padmanabhaswamy-temple-1/1200/900",
+      "https://picsum.photos/seed/hs-sree-padmanabhaswamy-temple-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 690,
+    "createdAt": "2026-01-01T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": ["Follow dress codes and photography rules posted at the entrance."],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/1307417295",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-st-francis-church",
+    "slug": "st-francis-church",
+    "name": "St. Francis Church",
+    "shortDescription": "One of the oldest European-built churches in India, in Fort Kochi.",
+    "description": null,
+    "categoryIds": ["temples-churches", "photoshoot"],
+    "tags": ["church", "fort kochi", "heritage"],
+    "address": null,
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.9659,
+    "longitude": 76.2411,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-st-francis-church-1/1200/900",
+      "https://picsum.photos/seed/hs-st-francis-church-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 3,
+    "popularityCount": 640,
+    "createdAt": "2026-02-02T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": [
+      "Follow dress codes and photography rules posted at the entrance.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Francis,_Kochi",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/411229869",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-santa-cruz-cathedral-basilica",
+    "slug": "santa-cruz-cathedral-basilica",
+    "name": "Santa Cruz Cathedral Basilica",
+    "shortDescription": "A cathedral basilica in Fort Kochi with a colourful interior.",
+    "description": null,
+    "categoryIds": ["temples-churches", "photoshoot"],
+    "tags": ["church", "fort kochi"],
+    "address": null,
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.965,
+    "longitude": 76.243,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-santa-cruz-cathedral-basilica-1/1200/900",
+      "https://picsum.photos/seed/hs-santa-cruz-cathedral-basilica-2/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 2,
+    "popularityCount": 380,
+    "createdAt": "2026-03-03T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": [
+      "Follow dress codes and photography rules posted at the entrance.",
+      "Respect private property and ask before photographing people."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Santa_Cruz_Cathedral_Basilica,_Kochi",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/52981122",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-ettumanoor-mahadeva-temple",
+    "slug": "ettumanoor-mahadeva-temple",
+    "name": "Ettumanoor Mahadeva Temple",
+    "shortDescription": "A historic Shiva temple in Kottayam known for its murals.",
+    "description": null,
+    "categoryIds": ["temples-churches"],
+    "tags": ["temple", "murals"],
+    "address": null,
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.6738,
+    "longitude": 76.5612,
+    "locationPrecision": "site",
+    "imageUrls": ["https://picsum.photos/seed/hs-ettumanoor-mahadeva-temple-1/1200/900"],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 160,
+    "createdAt": "2026-04-04T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": ["Follow dress codes and photography rules posted at the entrance."],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ettumanoor_Mahadevar_Temple",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://nominatim.openstreetmap.org/search?q=Ettumanoor+Temple,+Kerala",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-kumarakom-backwaters",
+    "slug": "kumarakom-backwaters",
+    "name": "Kumarakom Backwaters",
+    "shortDescription": "Backwaters on the shore of Vembanad Lake.",
+    "description": "Canals, paddy fields and the wide Vembanad Lake. Quieter on weekdays.",
+    "categoryIds": ["peaceful", "forests-lakes"],
+    "tags": ["backwaters", "vembanad"],
+    "address": null,
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 9.595,
+    "longitude": 76.43,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-kumarakom-backwaters-1/1200/900",
+      "https://picsum.photos/seed/hs-kumarakom-backwaters-2/1200/900",
+      "https://picsum.photos/seed/hs-kumarakom-backwaters-3/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 600,
+    "createdAt": "2026-05-05T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early mornings and weekdays are usually quietest.",
+    "safetyNotes": [
+      "Carry water and keep noise low for other visitors.",
+      "Stay on marked trails and follow forest department rules.",
+      "Do not feed or approach wildlife."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kumarakom",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/245584504",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-poovar-estuary",
+    "slug": "poovar-estuary",
+    "name": "Poovar Estuary",
+    "shortDescription": "Where a river meets the sea near the southern tip of Kerala.",
+    "description": null,
+    "categoryIds": ["peaceful", "beaches"],
+    "tags": ["estuary", "boat"],
+    "address": null,
+    "district": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 8.318,
+    "longitude": 77.071,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-poovar-estuary-1/1200/900",
+      "https://picsum.photos/seed/hs-poovar-estuary-2/1200/900"
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 2,
+    "popularityCount": 230,
+    "createdAt": "2026-06-06T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early mornings and weekdays are usually quietest.",
+    "safetyNotes": [
+      "Carry water and keep noise low for other visitors.",
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poovar",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/979148747",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-valiyaparamba-backwaters",
+    "slug": "valiyaparamba-backwaters",
+    "name": "Valiyaparamba Backwaters",
+    "shortDescription": "Quiet backwaters and islands in northern Kerala.",
+    "description": null,
+    "categoryIds": ["peaceful", "hidden-gems"],
+    "tags": ["backwaters", "islands"],
+    "address": null,
+    "district": "Kasaragod",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 12.144,
+    "longitude": 75.144,
+    "locationPrecision": "area",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-valiyaparamba-backwaters-1/1200/900",
+      "https://picsum.photos/seed/hs-valiyaparamba-backwaters-2/1200/900"
+    ],
+    "averageRating": 3.7,
+    "reviewCount": 3,
+    "popularityCount": 110,
+    "createdAt": "2026-07-07T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early mornings and weekdays are usually quietest.",
+    "safetyNotes": [
+      "Carry water and keep noise low for other visitors.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Valiyaparamba",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/634467738",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-munroe-island",
+    "slug": "munroe-island",
+    "name": "Munroe Island",
+    "shortDescription": "A cluster of small islands with narrow canals for canoe trips.",
+    "description": "Canoe rides along narrow canals give a close look at village life.",
+    "categoryIds": ["peaceful", "hidden-gems"],
+    "tags": ["canals", "canoe"],
+    "address": null,
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-munroe-island-1/1200/900",
+      "https://picsum.photos/seed/hs-munroe-island-2/1200/900"
+    ],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 270,
+    "createdAt": "2026-08-08T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early mornings and weekdays are usually quietest.",
+    "safetyNotes": [
+      "Carry water and keep noise low for other visitors.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-fort-kochi-chinese-fishing-nets",
+    "slug": "fort-kochi-chinese-fishing-nets",
+    "name": "Chinese Fishing Nets, Fort Kochi",
+    "shortDescription": "Large shore-operated fishing nets along the Fort Kochi waterfront.",
+    "description": null,
+    "categoryIds": ["photoshoot"],
+    "tags": ["waterfront", "sunset"],
+    "address": null,
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-fort-kochi-chinese-fishing-nets-1/1200/900",
+      "https://picsum.photos/seed/hs-fort-kochi-chinese-fishing-nets-2/1200/900",
+      "https://picsum.photos/seed/hs-fort-kochi-chinese-fishing-nets-3/1200/900"
+    ],
+    "averageRating": 4,
+    "reviewCount": 2,
+    "popularityCount": 580,
+    "createdAt": "2026-09-09T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early morning and late afternoon usually give the softest light.",
+    "safetyNotes": ["Respect private property and ask before photographing people."],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": []
+  },
+  {
+    "id": "pl-jatayu-earths-center",
+    "slug": "jatayu-earths-center",
+    "name": "Jatayu Earth's Center",
+    "shortDescription": "A hilltop park with a very large bird sculpture.",
+    "description": null,
+    "categoryIds": ["photoshoot", "hill-viewpoints"],
+    "tags": ["sculpture", "hilltop"],
+    "address": null,
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 8.8659,
+    "longitude": 76.8673,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-jatayu-earths-center-1/1200/900",
+      "https://picsum.photos/seed/hs-jatayu-earths-center-2/1200/900"
+    ],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 470,
+    "createdAt": "2026-01-10T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Early morning and late afternoon usually give the softest light.",
+    "safetyNotes": [
+      "Respect private property and ask before photographing people.",
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jatayu_Earth%27s_Center_Nature_Park",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/way/840524899",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-edakkal-caves",
+    "slug": "edakkal-caves",
+    "name": "Edakkal Caves",
+    "shortDescription": "Natural rock shelters with ancient petroglyphs.",
+    "description": "The climb includes steep steps. Access hours and visitor limits are set by the authorities.",
+    "categoryIds": ["hidden-gems", "hill-viewpoints"],
+    "tags": ["petroglyphs", "history"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": 11.6247,
+    "longitude": 76.2358,
+    "locationPrecision": "site",
+    "imageUrls": [
+      "https://picsum.photos/seed/hs-edakkal-caves-1/1200/900",
+      "https://picsum.photos/seed/hs-edakkal-caves-2/1200/900"
+    ],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 350,
+    "createdAt": "2026-02-11T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": null,
+    "safetyNotes": [
+      "Tell someone where you are going. Mobile signal may be weak.",
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": false,
+    "sources": [
+      {
+        "field": "coordinates",
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Edakkal_caves",
+        "retrievedOn": "2026-10-25"
+      },
+      {
+        "field": "coordinates",
+        "name": "OpenStreetMap",
+        "url": "https://www.openstreetmap.org/node/604968570",
+        "retrievedOn": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "pl-demo-kaattuchola-stream",
+    "slug": "demo-kaattuchola-stream",
+    "name": "Kaattuchola Stream (demo)",
+    "shortDescription": "A fictional forest stream used to test places without photos or a full description.",
+    "description": null,
+    "categoryIds": ["waterfalls", "hidden-gems"],
+    "tags": ["demo"],
+    "address": null,
+    "district": "Idukki",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": [],
+    "averageRating": null,
+    "reviewCount": 0,
+    "popularityCount": 12,
+    "createdAt": "2026-03-12T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally fullest during and just after the monsoon. Check local advisories before visiting in heavy rain.",
+    "safetyNotes": [
+      "Rocks near water are slippery. Stay behind barriers and follow posted guidance.",
+      "Do not swim where it is prohibited. Water levels can rise quickly after rain.",
+      "Tell someone where you are going. Mobile signal may be weak."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": true,
+    "sources": []
+  },
+  {
+    "id": "pl-demo-sunset-ridge",
+    "slug": "demo-sunset-ridge",
+    "name": "Sunset Ridge Viewpoint (demo)",
+    "shortDescription": "A fictional viewpoint created from an approved demo submission.",
+    "description": "This place does not exist. It shows how an approved user submission appears in the app.",
+    "categoryIds": ["hill-viewpoints"],
+    "tags": ["demo", "submission"],
+    "address": null,
+    "district": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": ["https://picsum.photos/seed/hs-demo-sunset-ridge-1/1200/900"],
+    "averageRating": 3.7,
+    "reviewCount": 3,
+    "popularityCount": 25,
+    "createdAt": "2026-04-13T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Clear views are more likely on dry days and early mornings.",
+    "safetyNotes": [
+      "Keep away from unfenced edges, especially in mist.",
+      "Weather can change quickly at height. Carry rain protection."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-arjun",
+    "isSyntheticDemo": true,
+    "sources": []
+  },
+  {
+    "id": "pl-demo-quiet-shore-cove",
+    "slug": "demo-quiet-shore-cove",
+    "name": "Quiet Shore Cove (demo)",
+    "shortDescription": "A fictional cove used for demo reviews and saving.",
+    "description": null,
+    "categoryIds": ["beaches", "peaceful"],
+    "tags": ["demo"],
+    "address": null,
+    "district": "Kasaragod",
+    "state": "Kerala",
+    "country": "India",
+    "latitude": null,
+    "longitude": null,
+    "locationPrecision": null,
+    "imageUrls": ["https://picsum.photos/seed/hs-demo-quiet-shore-cove-1/1200/900"],
+    "averageRating": 5,
+    "reviewCount": 1,
+    "popularityCount": 8,
+    "createdAt": "2026-05-14T08:00:00.000Z",
+    "openingHours": null,
+    "entryFee": null,
+    "bestTimeToVisit": "Generally most pleasant outside the main monsoon months, when the sea is calmer.",
+    "safetyNotes": [
+      "Swim only where it is permitted and follow lifeguard flags if present.",
+      "Currents can be strong during the monsoon.",
+      "Carry water and keep noise low for other visitors."
+    ],
+    "moderationStatus": "approved",
+    "createdBy": "usr-hiddenspot-team",
+    "isSyntheticDemo": true,
+    "sources": []
+  }
+]

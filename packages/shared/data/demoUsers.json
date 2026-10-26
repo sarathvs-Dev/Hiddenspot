@@ -1,0 +1,83 @@
+[
+  {
+    "id": "usr-hiddenspot-team",
+    "displayName": "HiddenSpot Team",
+    "role": "curator",
+    "avatarUrl": null,
+    "homeDistrict": null,
+    "joinedAt": "2026-01-01T00:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-moderator",
+    "displayName": "Demo Moderator",
+    "role": "moderator",
+    "avatarUrl": null,
+    "homeDistrict": "Ernakulam",
+    "joinedAt": "2026-01-01T00:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-anu",
+    "displayName": "Anu Thomas",
+    "role": "explorer",
+    "avatarUrl": "https://picsum.photos/seed/hs-user-anu/96/96",
+    "homeDistrict": "Kottayam",
+    "joinedAt": "2026-02-03T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-rahul",
+    "displayName": "Rahul Menon",
+    "role": "explorer",
+    "avatarUrl": null,
+    "homeDistrict": "Thrissur",
+    "joinedAt": "2026-02-11T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-fathima",
+    "displayName": "Fathima Rahman",
+    "role": "explorer",
+    "avatarUrl": "https://picsum.photos/seed/hs-user-fathima/96/96",
+    "homeDistrict": "Kozhikode",
+    "joinedAt": "2026-03-02T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-arjun",
+    "displayName": "Arjun Nair",
+    "role": "explorer",
+    "avatarUrl": null,
+    "homeDistrict": "Wayanad",
+    "joinedAt": "2026-03-18T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-meera",
+    "displayName": "Meera Pillai",
+    "role": "explorer",
+    "avatarUrl": "https://picsum.photos/seed/hs-user-meera/96/96",
+    "homeDistrict": "Thiruvananthapuram",
+    "joinedAt": "2026-04-07T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-joseph",
+    "displayName": "Joseph Varghese",
+    "role": "explorer",
+    "avatarUrl": null,
+    "homeDistrict": "Idukki",
+    "joinedAt": "2026-04-21T09:00:00.000Z",
+    "isDemo": true
+  },
+  {
+    "id": "usr-lakshmi",
+    "displayName": "Lakshmi Iyer",
+    "role": "explorer",
+    "avatarUrl": "https://picsum.photos/seed/hs-user-lakshmi/96/96",
+    "homeDistrict": "Palakkad",
+    "joinedAt": "2026-05-09T09:00:00.000Z",
+    "isDemo": true
+  }
+]

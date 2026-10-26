@@ -1,0 +1,47 @@
+{
+  "name": "hiddenspot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HiddenSpot: discover hidden tourist destinations. Monorepo for the mobile and web apps.",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "dev:web": "npm run dev -w @hiddenspot/web",
+    "dev:mobile": "npm run start -w @hiddenspot/mobile",
+    "android": "npm run android -w @hiddenspot/mobile",
+    "ios": "npm run ios -w @hiddenspot/mobile",
+    "build:web": "npm run build -w @hiddenspot/web",
+    "preview:web": "npm run preview -w @hiddenspot/web",
+    "bundle:mobile": "npm run bundle:check -w @hiddenspot/mobile",
+    "doctor:mobile": "npm run doctor -w @hiddenspot/mobile",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "npm run test -w @hiddenspot/shared",
+    "validate": "npm run typecheck && npm run lint && npm run format:check && npm run test && npm run build:web",
+    "seed:generate": "npm run seed:generate -w @hiddenspot/shared"
+  },
+  "overrides": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.13.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.72.0"
+  },
+  "type": "module"
+}

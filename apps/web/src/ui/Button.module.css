@@ -1,0 +1,121 @@
+.button {
+  --bg: var(--button-primary-bg);
+  --bg-pressed: var(--button-primary-bg-pressed);
+  --fg: var(--button-primary-fg);
+  --bd: var(--button-primary-border);
+
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--button-md-gap);
+  height: var(--button-md-height);
+  padding-inline: var(--button-md-padding-x);
+  border: var(--border-thin) solid var(--bd);
+  border-radius: var(--radius-pill);
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--type-button-family);
+  font-size: var(--button-md-font-size);
+  font-weight: var(--type-button-weight);
+  line-height: var(--type-button-line-height);
+  letter-spacing: var(--type-button-tracking);
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  transition:
+    background-color var(--duration-fast) var(--ease-standard),
+    transform var(--duration-fast) var(--ease-standard),
+    box-shadow var(--duration-fast) var(--ease-standard);
+}
+
+.button:hover:not(:disabled) {
+  background: var(--bg-pressed);
+}
+
+.button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.button:disabled {
+  opacity: var(--opacity-disabled);
+}
+
+.primary {
+  --bg: var(--button-primary-bg);
+  --bg-pressed: var(--button-primary-bg-pressed);
+  --fg: var(--button-primary-fg);
+  --bd: var(--button-primary-border);
+  box-shadow: var(--shadow-xs);
+}
+.secondary {
+  --bg: var(--button-secondary-bg);
+  --bg-pressed: var(--button-secondary-bg-pressed);
+  --fg: var(--button-secondary-fg);
+  --bd: var(--button-secondary-border);
+}
+.outline {
+  --bg: var(--button-outline-bg);
+  --bg-pressed: var(--button-outline-bg-pressed);
+  --fg: var(--button-outline-fg);
+  --bd: var(--button-outline-border);
+}
+.ghost {
+  --bg: var(--button-ghost-bg);
+  --bg-pressed: var(--button-ghost-bg-pressed);
+  --fg: var(--button-ghost-fg);
+  --bd: var(--button-ghost-border);
+}
+.danger {
+  --bg: var(--button-danger-bg);
+  --bg-pressed: var(--button-danger-bg-pressed);
+  --fg: var(--button-danger-fg);
+  --bd: var(--button-danger-border);
+}
+
+.sm {
+  height: var(--button-sm-height);
+  padding-inline: var(--button-sm-padding-x);
+  font-size: var(--button-sm-font-size);
+  gap: var(--button-sm-gap);
+}
+
+/* Small buttons keep a 44px hit area without looking larger. */
+.sm::after {
+  content: '';
+  position: absolute;
+  inset: calc((var(--touch-target) - var(--button-sm-height)) / -2) 0;
+}
+
+.lg {
+  height: var(--button-lg-height);
+  padding-inline: var(--button-lg-padding-x);
+  font-size: var(--button-lg-font-size);
+  gap: var(--button-lg-gap);
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.spinner {
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spinner {
+    animation-duration: 2.4s;
+    animation-iteration-count: infinite !important;
+  }
+}
